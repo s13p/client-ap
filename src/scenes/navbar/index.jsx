@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          APOTHOPOTHO
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
